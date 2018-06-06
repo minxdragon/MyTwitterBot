@@ -1,4 +1,4 @@
-ConsumerKey='mk2BiLyjlEzNFUwb1zlNzabGA'
-ConsumerSecret='MwAku4Dv9uG7jYGdW2EZMQc1LMw0u676L6SPHw6mx84pjrzNai'
-AccessToken='13414442-Bgytj98J3I0e2iX0ADb47aVTCF87DMN6dYiTUyM0A'
-AccessTokenSecret='2dV3hsszRdRlHg6KOFtNxR0WyDBwIsgzKxHaL77rGDr9u'
+ConsumerKey=''
+ConsumerSecret=''
+AccessToken=''
+AccessTokenSecret=''
